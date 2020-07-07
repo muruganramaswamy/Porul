@@ -1,0 +1,127 @@
+.navbar-porul-brand {
+  height: 3rem;
+  padding: 0;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.navbar-brand-porul-brand img {
+  width: 100%;
+  height: auto;
+}
+
+.navbar-brand-porul-brand a {
+  margin-right: 0;
+}
+
+.navbar-toggler-porul-brand.navbar-toggler {
+  border-color: black;
+}
+
+.navbar-toggler-porul-brand .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.nav-link-porul-brand {
+  color: #035aa6;
+  font-family: "Montserrat", "Sacramento", Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 0.6px;
+  padding-left: 1rem !important;
+  padding-right: 0 !important;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.nav-link-porul-brand:hover {
+  color: #abc2e8;
+  text-decoration: underline;
+}
+
+.container-fulid-porul-menu {
+  background-color: #035aa6;
+  padding: 0;
+}
+
+.navbar-porul-menu {
+  padding: 0;
+  margin-top: 1%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.navbar-toggler-porul-menu.navbar-toggler {
+  border-color: black;
+}
+
+.navbar-toggler-porul-menu .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.nav-link-porul-menu {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.8rem;
+  font-weight: bold;
+  background-color: #035aa6;
+  color: white;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+  padding: .3rem;
+}
+
+.nav-link-porul-menu:hover {
+  background-color: #10375c;
+  color: white;
+}
+
+.dropdown {
+  position: static;
+}
+
+.dropdown-menu-porul {
+  display: flex;
+  justify-content: space-around;
+  border-style: solid;
+  border-width: .05rem;
+  border-color: #abc2e8;
+  padding: 0;
+}
+
+.dropdown-item-porul {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 0.6px;
+  color: #abc2e8;
+  text-transform: uppercase;
+  padding-top: .3rem;
+  padding-left: 0;
+  padding-right: 0;
+  padding-bottom: .3rem;
+}
+
+.dropdown-item-porul:hover {
+  color: #035aa6;
+  text-decoration: none;
+}
+
+.col-porul {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.dropdown-menu {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-top: 0;
+  margin-left: 0;
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  font-size: 0.80rem;
+  font-weight: bold;
+  letter-spacing: 0.6px;
+  width: 100%;
+}
